@@ -1,5 +1,10 @@
 # Wikitime
-Timeline for the creation and editing of the nine article versions of Wikipedia articles
+Timeline for the creation and editing of the different language versions of Wikipedia articles
+# Introduction
+WikiTime is a tool for creating graphs indicating edit effort over time with relative intensity of editing work shown by shading
+
+![image](https://github.com/LukeTu/Wikitime/blob/master/demo.png)
+
 # Installation
 Download Python https://www.python.org/downloads/ and install with adding to path
 
